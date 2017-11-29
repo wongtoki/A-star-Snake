@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{C80EA63D-D4EA-0D9E-4319-EE0A05C6B61E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Grid.cs" Line="28" Column="33" />
+      <File FileName="Assets/Scripts/AIHead.cs" Line="17" Column="31" />
+      <File FileName="Assets/Scripts/Head.cs" Line="200" Column="9" />
+      <File FileName="Assets/Scripts/FoodSpawner.cs" Line="56" Column="62" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="27" Column="46" />
+      <File FileName="Assets/Scripts/PlayerPathFinder.cs" Line="223" Column="80" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Snake PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
